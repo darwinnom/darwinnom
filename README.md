@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darwin8n" alt="darwin8n" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/darwin" target="blank"><img src="https://img.shields.io/twitter/follow/darwin?logo=twitter&style=for-the-badge" alt="darwin" /></a> </p>
+<p align="left"> <a href="[Darwin](https://x.com/Darwinnom)" target="blank"><img src="https://img.shields.io/twitter/follow/darwin?logo=twitter&style=for-the-badge" alt="darwin" /></a> </p>
 
 - 🔭 I’m currently working on **discord bugs**
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **intresting projects**
 
-- 📝 I regularly write articles on [https://darwinlabs.uno](https://darwinlabs.uno)
+- 📝 I regularly write articles on [darwinlabs.uno](https://darwinlabs.uno)
 
 - 💬 Ask me about **Moderator/bugs**
 
