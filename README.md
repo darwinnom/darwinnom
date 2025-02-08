@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **intresting projects**
 
-- 💬 Ask me about **Moderator/bugs**
+- 💬 Ask me about **Moderation/bugs**
 
 - 📫 How to reach me **darwin@darwinlabs.uno**
 
