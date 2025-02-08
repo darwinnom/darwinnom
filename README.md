@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **intresting projects**
 
-- 📝 I regularly write articles on [darwinlabs.uno](https://darwinlabs.uno)
-
 - 💬 Ask me about **Moderator/bugs**
 
 - 📫 How to reach me **darwin@darwinlabs.uno**
